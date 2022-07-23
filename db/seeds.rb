@@ -46,6 +46,7 @@ end
 #User Seeds
 
 User.create(username:'RBRNFRVR', password:'1234')
+#  EXISTING USER
 
 #Playlist Seeds
 
